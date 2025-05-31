@@ -1,0 +1,9 @@
+.image-gallery img{
+    flex-wrap: wrap;
+    width: 100%;
+    /* max-width: 100%; */
+  }
+  .image-gallery{
+    margin-bottom: 55px;
+  }
+
