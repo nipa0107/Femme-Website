@@ -12,4 +12,6 @@ Tech stack
 - CSS
 - Bootstrap5
 - Figma (Designed UI)
+  
+Link Figma: https://www.figma.com/design/st4QMMLqXnlMbxPDW88YVU/webdisign?node-id=0-1&t=4N2RamClITMEnlXe-1
 
