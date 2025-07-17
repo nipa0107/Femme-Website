@@ -1,17 +1,27 @@
-# Femme-Website
+# 👗 Femme Website
 
-![Femme-Review](Femme-Review.gif)
+![Femme Review](Femme-Review.gif)
 
-Developed a responsive website for outfit ideas and styling tips, enhancing the overall user experience.
+A responsive fashion website that offers outfit ideas and styling tips to inspire users and enhance their overall experience.
 
-Link Demo: [femme-website.vercel.app](https://femme-website.vercel.app/)
+🌐 **Live Demo:** [femme-website.vercel.app](https://femme-website.vercel.app/)
 
-Tech stack
------------------
-- HTML
-- CSS
-- Bootstrap5
-- Figma (Designed UI)
-  
-Link Figma: https://www.figma.com/design/st4QMMLqXnlMbxPDW88YVU/webdisign?node-id=0-1&t=4N2RamClITMEnlXe-1
+🎨 **Figma Design:** [View UI Design](https://www.figma.com/design/st4QMMLqXnlMbxPDW88YVU/webdisign?node-id=0-1&t=4N2RamClITMEnlXe-1)
+
+
+## ✨ Features
+
+- 💡 Outfit inspiration and styling tips  
+- 📱 Fully responsive design for all screen sizes  
+- 🎨 Clean, modern, and feminine UI  
+- ⚡ Smooth user experience using Bootstrap components  
+
+
+## 🛠 Tech Stack
+
+- **HTML5**  
+- **CSS3**  
+- **Bootstrap 5**  
+- **Figma** (for UI/UX Design)
+
 
