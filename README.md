@@ -4,7 +4,7 @@
 
 Developed a responsive website for outfit ideas and styling tips, enhancing the overall user experience.
 
-Link Demo: http://202.28.94.18/wdt65/group/it/it12/webdesign/
+Link Demo: [femme-website.vercel.app](https://femme-website.vercel.app/)
 
 Tech stack
 -----------------
